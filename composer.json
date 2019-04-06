@@ -1,10 +1,10 @@
 {
-    "name": "swiftmade/blogdown",
+    "name": "zipmegabyte/blogdown",
     "description": "Simple Laravel blog package using markdown",
     "authors": [
         {
-            "name": "Ahmet Ozisik",
-            "email": "ozisikahmet@gmail.com"
+            "name": "Leonardo Ribeiro",
+            "email": "leonardotsr@gmail.com"
         }
     ],
     "license": "MIT",
