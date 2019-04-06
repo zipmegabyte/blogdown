@@ -1,7 +1,7 @@
 <?php
 namespace Swiftmade\Blogdown;
 
-use Swiftmade\Blogdown\Post\Post;
+use Swiftmade\Blogdown\Support\Post;
 use Illuminate\Support\Collection;
 use Illuminate\Pagination\Paginator;
 use Illuminate\Pagination\LengthAwarePaginator;

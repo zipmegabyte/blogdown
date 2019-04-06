@@ -1,5 +1,5 @@
 <?php
-namespace Swiftmade\Blogdown\Post;
+namespace Swiftmade\Blogdown\Support;
 
 use stdClass;
 
